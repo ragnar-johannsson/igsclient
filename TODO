@@ -1,0 +1,4 @@
+- Add user login capability
+- Add starpoints after addMove loop has finished to avoid starpoints disappearing
+- Finish parser and events for scoring
+- Debug elusive capturing bug
