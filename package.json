@@ -1,6 +1,6 @@
 {
     "name": "igsclient",
-    "version": "0.1.0",
+    "version": "0.1.1",
     "description": "An observation client for Pandanet's Internet Go Server",
     "keywords": [ "igs", "observe", "go", "weiqi", "baduk" ],
     "author": "Ragnar B. Johannsson <ragnar@igo.is>",
